@@ -346,7 +346,19 @@
       {
         "name": "Scaling",
         "slug": "scaling",
-        "description": "projects researching or building blockchain scaling solutions, including layer 1 (mainnet) and layer 2 scalability"
+        "description": "projects researching or building blockchain scaling solutions, including layer 1 (mainnet) and layer 2 scalability",
+        "subcategories": [
+      {
+        "name": "ZK-Rollups",
+        "slug": "zk-rollups",
+        "description": "projects researching or building blockchain scaling solutions based on ZK-Rollups"
+      },
+      {
+        "name": "Optimistic Rollups",
+        "slug": "optimistic-rollups",
+        "description": "projects researching or building blockchain scaling solutions based on Optimistic Rollups"
+      }  
+    ]
       },
 
       {
