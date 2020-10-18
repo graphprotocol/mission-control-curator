@@ -98,6 +98,19 @@
         "slug": "art",
         "description": "projects focused art creation, exchange and hosting"
       },
+      
+      {
+        "name": "Blogs",
+        "slug": "blogs",
+        "description": "projects focused on writing and hosting blogs"
+      },
+
+      {
+        "name": "Books",
+        "slug": "books",
+        "description": "projects focused on writing and publishing books and formalized content"
+      },
+
       {
         "name": "Collectibles",
         "slug": "collectibles",
@@ -115,19 +128,7 @@
         "slug": "music",
         "description": "apps and protocols for music streaming and recording"
       },
-
-      {
-        "name": "Blogs",
-        "slug": "blogs",
-        "description": "projects focused on writing and hosting blogs"
-      },
-
-      {
-        "name": "Books",
-        "slug": "books",
-        "description": "projects focused on writing and publishing books and formalized content"
-      },
-
+      
       {
         "name": "Sports",
         "slug": "sports",
