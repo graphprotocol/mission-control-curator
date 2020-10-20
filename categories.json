@@ -374,4 +374,10 @@
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
   }
+  {
+    "name": "Energy",
+    "slug": "Energy",
+    "description": "projects focused on energy economies, efficiently service people by current resources on th earth"
+  }
+  
 ]
