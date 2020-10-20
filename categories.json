@@ -96,7 +96,7 @@
       {
         "name": "Art",
         "slug": "art",
-        "description": "projects focused art creation, exchange and hosting"
+        "description": "projects focused on art creation, exchange and hosting"
       },
       {
         "name": "Collectibles",
@@ -127,7 +127,11 @@
         "slug": "books",
         "description": "projects focused on writing and publishing books and formalized content"
       },
-
+      {
+        "name": "Podcasts",
+        "slug": "podcasts",
+        "description": "projects focused on creating podcasts"
+      },
       {
         "name": "Sports",
         "slug": "sports",
