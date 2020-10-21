@@ -5,6 +5,12 @@
     "description": "projects focused on decentralized finance or open finance",
     "subcategories": [
       {
+        "name": "Cashflows",
+        "slug": "cashflows",
+        "description": "apps and protocols that facilitate stream of values such as salaries, subscriptions and rewards"
+      },
+
+      {
         "name": "Currencies",
         "slug": "currencies",
         "description": "apps and protocols that issue a cryptocurrency, including stablecoins, ERC20s and non-fungible tokens"
@@ -199,7 +205,20 @@
   {
     "name": "Hardware",
     "slug": "hardware",
-    "description": "projects focused on developing hardware for Web3 apps and protocols"
+    "description": "projects focused on developing hardware for Web3 apps and protocols",
+    "subcategories": [
+      {
+        "name": "Hardware Wallets",
+        "slug": "hardware-wallets",
+        "description": "cryptocurrency wallets which store the user's private keys in a secure hardware device"
+      },
+
+      {
+        "name": "Internet of Things",
+        "slug": "internet-of-things",
+        "description": "Conected and interoperable IoT systems and devices which allow for the machine-to-machine (M2M) economy"
+      }
+    ]
   },
 
   {
