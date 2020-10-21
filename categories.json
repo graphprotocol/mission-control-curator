@@ -373,5 +373,20 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  {
+  "name": "Tooling",
+  "slug": "tooling",
+  "description": "List of all blockchain-based tools."
+  },
+  {
+  "name": "Rating & Reputation",
+  "slug": "rating-reputation",
+  "description": "Blockchain-based rating and reputation platforms allow for rating systems that don't rely on centralized parties."
+  },
+  {
+  "name": "Timestamping Services",
+  "slug": "timestamping-services",
+  "description": "Timestamping Service certifies the existence of specific data at a certain point of time."
   }
 ]
