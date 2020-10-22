@@ -368,7 +368,11 @@
     "slug": "supply-chain",
     "description": "apps and protocols focused on supply chain management, tracking and optimization"
   },
-
+  {
+    "name": "Token Factory",
+    "slug": "token-factory",
+    "description": "projects that allows users to create their own tokens"
+  },
   {
     "name": "Work",
     "slug": "work",
