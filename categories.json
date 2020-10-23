@@ -139,6 +139,12 @@
         "slug": "video",
         "description": "apps and protocols for video streaming and recording"
       },
+      
+      {
+        "name": "Non Fungible Tokens",
+        "slug": "Non-Fungible-Tokens",
+        "description": "apps and protocol using NFT in their process"
+      },
 
       {
         "name": "Virtual Reality",
