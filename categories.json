@@ -68,6 +68,12 @@
         "name": "Wallets",
         "slug": "wallets",
         "description": "wallet apps that support cryptocurrencies and tokenized assets and can provide other DeFi services"
+      },
+      
+      {
+        "name": "Prediction Markets",
+        "slug": "prediction-markets",
+        "description": "exchange-traded markets created for the purpose of trading the outcome of events"
       }
     ]
   },
