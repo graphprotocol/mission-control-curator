@@ -1,5 +1,10 @@
 [
   {
+    "name": "Communication",
+    "slug": "communication",
+    "description": "projects focused on chat, messaging & communication",
+  },
+  {
     "name": "DeFi",
     "slug": "defi",
     "description": "projects focused on decentralized finance or open finance",
