@@ -71,7 +71,44 @@
       }
     ]
   },
-
+{
+  
+"name": "Artificial Intelligence",
+    "slug": "artificial-intelligence",
+    "description": "the property of intelligent systems to perform creative functions, which are usually considered the prerogative of a person; science and technology of creating intelligent machines, especially intelligent computer programs",
+    "subcategories": [
+      {
+        "name": "Algorithmic trading",
+        "slug": "algorithmic-trading",
+        "description": "sophisticated artificial intelligence systems make trading decisions at a speed that exceeds the speed of a human being"
+      },
+      {
+        "name": "Warfare",
+        "slug": "warfare",
+        "description": "creation of advanced control systems for the battlefield and weapons"
+      },
+      {
+        "name": "Heavy industry",
+        "slug": "heavy-industry",
+        "description": "creation of industrial robots that perform hazardous work"
+      },
+      {
+        "name": "Fun and games",
+        "slug": "Fun-and-games",
+        "description": "bots in video games, pets with AI, toys for children with speech recognition"
+      },
+      {
+        "name": "Automobile transport",
+        "slug": "Automobile-transport",
+        "description": "autopilot function"
+      },
+      {
+        "name": "Online and telephone customer support",
+        "slug": "online-and-telephone-customer-support",
+        "description": "online help, chat bots, human speech analysis"
+      }
+    ]
+  },
   {
     "name": "Education",
     "slug": "education",
