@@ -373,5 +373,13 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+  {
+    "name": "Crowdfunding",
+    "slug": "crowdfunding",
+    "description": "platforms focused on providing funding for projects"
   }
+  
+  
 ]
