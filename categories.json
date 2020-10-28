@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+  {
+    "name": "Snark & Stark",
+    "slug": "Snark & Stark",
+    "description": "projects focus on recursive snark or stark to help the blockchain to compress the blockchain data, bring full node to light devices"
   }
 ]
