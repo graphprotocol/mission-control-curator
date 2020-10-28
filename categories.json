@@ -236,6 +236,18 @@
     "name": "News & Media",
     "slug": "news-and-media",
     "description": "projects and outlets focused on providing news and media services"
+    "subcategories": [
+      {
+        "name": "Wiki",
+        "slug": "wiki",
+        "description": "projects focused on decentralized wiki"
+      },
+      {
+        "name": "Live-Stream",
+        "slug": "live-stream",
+        "description": "projects focused on decentralized live-stream"
+      }
+    ]
   },
   {
     "name": "Philanthropy",
