@@ -281,6 +281,11 @@
         "name": "Software Development",
         "slug": "software-development",
         "description": "developer shops and projects focused on software creation as a service"
+      },
+      {
+        "name": "Cybersecurity",
+        "slug": "cybersecurity",
+        "description": "Services for regulatory compliance, crime investigation, and blockchain analytics to fight illicit cryptocurrency activities."
       }
     ]
   },
