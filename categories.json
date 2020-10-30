@@ -84,6 +84,44 @@
     "description": "projects focused on the energy and oil sectorsR"
   },
   {
+  
+"name": "Alternative sources of energy",
+    "slug": "alternative-sources-of-energy",
+    "description": "promising ways to obtain, transfer and use energy with a low risk of causing harm to the environment",
+    "subcategories": [
+      {
+        "name": "Solar energy",
+        "slug": "solar-energy",
+        "description": "the use of solar radiation for energy"
+      },
+      {
+        "name": "Wind power",
+        "slug": "wind-power",
+        "description": "transformation of the kinetic energy of air masses in the atmosphere into electrical, mechanical, thermal or any other form of energy"
+      },
+      {
+        "name": "Biomass energy",
+        "slug": "biomass-energy",
+        "description": "use of thermal energy of the Earth's interior for the production of electrical energy"
+      },
+      {
+        "name": "Wave energy",
+        "slug": "wave-energy",
+        "description": "obtaining electricity from the kinetic energy of waves"
+      },
+      {
+        "name": "Gradient-temperature energy",
+        "slug": "gradient-temperature-energy",
+        "description": "one of the types of renewable energy that allows you to generate electricity using the temperature difference on the surface and depth of the oceans"
+      },
+      {
+        "name": "Tidal energy",
+        "slug": "tidal-energy",
+        "description": "a special type of hydroelectric power station that uses the energy of tides, and in fact the kinetic energy of the Earth's rotation"
+      }
+    ]
+  },
+  {
     "name": "Entertainment",
     "slug": "entertainment",
     "description": "projects for entertainment purposes, including music, video, art, books, sports and gaming",
