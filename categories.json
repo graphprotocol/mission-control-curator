@@ -238,6 +238,11 @@
     "description": "projects and outlets focused on providing news and media services"
   },
   {
+    "name": "NFT",
+    "slug": "nft",
+    "description": "projects focused on nonfungible products"
+  },
+  {
     "name": "Philanthropy",
     "slug": "philanthropy",
     "description": "non-profit and charity organizations"
