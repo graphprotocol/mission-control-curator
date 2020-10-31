@@ -243,6 +243,11 @@
     "description": "non-profit and charity organizations"
   },
   {
+    "name": "Protocols",
+    "slug": "protocols",
+    "description": "projects which are protocols"
+  },
+  {
     "name": "Places",
     "slug": "places",
     "description": "apps and protocols focused on location services, like geographic positioning"
