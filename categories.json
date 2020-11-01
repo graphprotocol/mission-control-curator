@@ -373,5 +373,17 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
-  }
+  },
+  
+  {
+        "name": "Search Engines",
+        "slug": "search engine",
+        "description": "search engines for blockchains and web3 content"
+      },
+  
+  {
+        "name": "Knowledge graphs",
+        "slug": "knowledge graph",
+        "description": "IPFS based knowledge graphs"
+      }
 ]
