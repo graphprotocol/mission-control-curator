@@ -374,4 +374,9 @@
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
   }
+  {
+		        "name": " Artificial Intelligence",
+		        "slug": " artificial Intelligence",
+		        "description": " Blockchain projects focused on AI research and development "
+		      }
 ]
