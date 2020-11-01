@@ -1,5 +1,18 @@
 [
   {
+    "name": "CeFi",
+    "slug": "cefi",
+    "description": "centralized finance (CeFi) entities focused on supporting web3",
+    "subcategories": [
+      {
+        "name": "Funds",
+        "slug": "funds",
+        "description": "investment and hedge funds, venture capital funds or private equity organizations focused on Web3"
+      },
+    ]
+  },
+
+  {
     "name": "DeFi",
     "slug": "defi",
     "description": "projects focused on decentralized finance or open finance",
@@ -83,25 +96,16 @@
     "slug": "energy",
     "description": "projects focused on the energy and oil sectorsR"
   },
+
   {
     "name": "Entertainment",
     "slug": "entertainment",
-    "description": "projects for entertainment purposes, including music, video, art, books, sports and gaming",
+    "description": "projects for entertainment purposes, including music, video, books, sports and gaming",
     "subcategories": [
       {
         "name": "Adult",
         "slug": "adult",
         "description": "projects focused on providing adult entertainment"
-      },
-      {
-        "name": "Art",
-        "slug": "art",
-        "description": "projects focused art creation, exchange and hosting"
-      },
-      {
-        "name": "Collectibles",
-        "slug": "collectibles",
-        "description": "projects for collectibles issuance, exchange and hosting"
       },
 
       {
@@ -120,7 +124,7 @@
         "name": "Blogs",
         "slug": "blogs",
         "description": "projects focused on writing and hosting blogs"
-      },
+     },
 
       {
         "name": "Books",
@@ -147,6 +151,7 @@
       }
     ]
   },
+
   {
     "name": "Environment",
     "slug": "environment",
@@ -160,12 +165,6 @@
   },
 
   {
-    "name": "Funds",
-    "slug": "funds",
-    "description": "investment and hedge funds, venture capital funds or private equity organizations focused on Web3"
-  },
-
-  {
     "name": "Grants Organizations",
     "slug": "grants-organizations",
     "description": "organizations distributing grant funding to other projects"
@@ -175,7 +174,6 @@
     "name": "Governance",
     "slug": "governance",
     "description": "Porganizations focused on decentralized governance implementations and research, such as DAOs, voting tools and consensus mechanisms",
-
     "subcategories": [
       {
         "name": "DAOs",
@@ -196,6 +194,7 @@
       }
     ]
   },
+
   {
     "name": "Hardware",
     "slug": "hardware",
@@ -237,21 +236,44 @@
     "slug": "news-and-media",
     "description": "projects and outlets focused on providing news and media services"
   },
+
+  {
+    "name": "Non-Fungible Tokens",
+    "slug": "nft",
+    "description": "projects focusing on non-fungible tokens (NFTs)",
+    "subcategories": [
+      {
+        "name": "Art",
+        "slug": "art",
+        "description": "projects focused art creation, exchange and hosting"
+      },
+
+      {
+        "name": "Collectibles",
+        "slug": "collectibles",
+        "description": "projects for collectibles issuance, exchange and hosting"
+      }
+    ]
+  },
+
   {
     "name": "Philanthropy",
     "slug": "philanthropy",
     "description": "non-profit and charity organizations"
   },
+
   {
     "name": "Places",
     "slug": "places",
     "description": "apps and protocols focused on location services, like geographic positioning"
   },
+
   {
     "name": "Research",
     "slug": "research",
     "description": "projects focused on Web3 development, including cryptoeconomics, distributed systems, consensus mechanisms, scalability and more"
   },
+
   {
     "name": "Services",
     "slug": "services",
@@ -262,21 +284,25 @@
         "slug": "accounting",
         "description": "accounting services focused on cryptocurrency and tokenized assetsR"
       },
+
       {
         "name": "Human Resources",
         "slug": "human-resources",
         "description": "HR and professional services, including hiring, recruiting, people management and development"
       },
+
       {
         "name": "Legal",
         "slug": "legal",
         "description": "legal services focused on cryptocurrency and blockchain, including regulation, securities laws, LAOs"
       },
+
       {
         "name": "Marketing & PR",
         "slug": "marketing-and-pr",
         "description": "marketing, PR and media companies focused on promoting cryptocurrency and blockchain"
       },
+
       {
         "name": "Software Development",
         "slug": "software-development",
@@ -301,36 +327,43 @@
         "slug": "analytics",
         "description": "projects focused on consuming and analyzing data from Web3 apps and protocols, including block explorers, analytics apps, data feeds"
       },
+
       {
         "name": "Blockchain Development",
         "slug": "blockchain-development",
         "description": "projects and teams focused on researching and building blockchains, distributed systems and sidechains"
       },
+
       {
         "name": "Computation",
         "slug": "computation",
         "description": "projects focused on computation for Web3 protocols, such as researching computation, implementing computation sharing solutions"
       },
+
       {
         "name": "Custody",
         "slug": "custody",
         "description": "projects focused on providing custody or delegate services, such as custody of user funds and private keys"
       },
+
       {
         "name": "Developer Tools",
         "slug": "developer-tools",
         "description": "projects focused on researching and building developer tooling for Web3 apps and protocols"
       },
+
       {
         "name": "Libraries",
         "slug": "libraries",
         "description": "projects focused on building libraries for Web3 development"
       },
+
       {
         "name": "Networking",
         "slug": "networking",
         "description": "projects focused on networking between Web3 protocols, such as p2p networking"
       },
+
       {
         "name": "Oracles",
         "slug": "oracles",
