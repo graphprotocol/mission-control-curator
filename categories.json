@@ -55,7 +55,7 @@
       {
         "name": "Research",
         "slug": "research",
-        "description": "projects focused on providing data and research about DeFi"
+        "description": "projects focused on providing data and research about DeFi" papsan/mission-control-curator
       },
 
       {
@@ -131,7 +131,7 @@
       {
         "name": "Sports",
         "slug": "sports",
-        "description": "sporting applications and tools"
+        "description": "sporting applications and tools" papsan/mission-control-curator
       },
 
       {
@@ -207,7 +207,7 @@
     "slug": "health-and-wellness",
     "description": "projects focused on health care, wellness and medicine"
   },
-
+ papsan/mission-control-curator
   {
     "name": "Identity",
     "slug": "identity",
@@ -272,7 +272,7 @@
         "slug": "legal",
         "description": "legal services focused on cryptocurrency and blockchain, including regulation, securities laws, LAOs"
       },
-      {
+      { papsan/mission-control-curator
         "name": "Marketing & PR",
         "slug": "marketing-and-pr",
         "description": "marketing, PR and media companies focused on promoting cryptocurrency and blockchain"
@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+
+  {
+    "name": "CBDC",
+    "slug": "cbdc",
+    "description": "Central Bank Digital Currency"
   }
 ]
