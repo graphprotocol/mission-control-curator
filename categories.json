@@ -374,4 +374,9 @@
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
   }
+  {
+    "name": "Mining Pool",
+    "slug": "mining-pool",
+    "description": "a mining pool is the pooling of resources by miners, who share their processing power over a network, to split the reward equally, according to the amount of work they contributed to the probability of finding a block."
+  }
 ]
