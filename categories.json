@@ -248,6 +248,11 @@
     "description": "apps and protocols focused on location services, like geographic positioning"
   },
   {
+    "name": "Prediction Markets",
+    "slug": "prediction markets",
+    "description": "any prediction markets platforms within cryptocurrency infrastructure"
+  },
+  {
     "name": "Research",
     "slug": "research",
     "description": "projects focused on Web3 development, including cryptoeconomics, distributed systems, consensus mechanisms, scalability and more"
