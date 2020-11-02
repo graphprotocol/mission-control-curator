@@ -73,6 +73,11 @@
   },
 
   {
+    "name": "Culture",
+    "slug": "culture",
+    "description": " is an umbrella term which encompasses the social behavior and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, and habits of the individuals in these groups",
+  },
+  {
     "name": "Education",
     "slug": "education",
     "description": "any projects focused on education and learning provision, including institutional academia, technical skills learning, Web3 resources and more"
