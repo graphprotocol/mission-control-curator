@@ -359,6 +359,12 @@
         "name": "Storage",
         "slug": "storage",
         "description": "projects focused on storage for Web3 protocols, including file sharing, cloud storage and more"
+      },
+      
+      {
+        "name": "Verification",
+        "slug": "verification",
+        "description": "projects focused on smart contracts formal verification"
       }
     ]
   },
