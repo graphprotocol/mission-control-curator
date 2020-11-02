@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+  {
+    "name": "gambling",
+    "slug": "gambling",
+    "description": "projects focused on gambling: pokerrooms, casinos etc"
   }
 ]
