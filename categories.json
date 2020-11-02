@@ -81,7 +81,7 @@
   {
     "name": "Energy",
     "slug": "energy",
-    "description": "projects focused on the energy and oil sectorsR"
+    "description": "projects focused on the energy and oil sectors"
   },
   {
     "name": "Entertainment",
@@ -143,14 +143,14 @@
       {
         "name": "Virtual Reality",
         "slug": "virtual-reality",
-        "description": "PLACEHOLDER"
+        "description": "projects focus on virtual reality experiences"
       }
     ]
   },
   {
     "name": "Environment",
     "slug": "environment",
-    "description": "PLACEHOLDER"
+    "description": "projects focus on environmental challanges"
   },
 
   {
@@ -193,6 +193,11 @@
         "name": "Voting",
         "slug": "voting",
         "description": "decentralized voting and signalling tools for app and protocol governance"
+      },
+      {
+        "name": "Analytics",
+        "slug": "analytics",
+        "description": "analytics tools for governance & DAOs"
       }
     ]
   },
@@ -260,7 +265,7 @@
       {
         "name": "Accounting",
         "slug": "accounting",
-        "description": "accounting services focused on cryptocurrency and tokenized assetsR"
+        "description": "accounting services focused on cryptocurrency and tokenized assets"
       },
       {
         "name": "Human Resources",
