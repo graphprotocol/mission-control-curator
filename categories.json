@@ -368,7 +368,11 @@
     "slug": "supply-chain",
     "description": "apps and protocols focused on supply chain management, tracking and optimization"
   },
-
+  {
+    "name": "Validators",
+    "slug": "Validators",
+    "description": "organizations focused on blockchain consensus validation."
+  },
   {
     "name": "Work",
     "slug": "work",
