@@ -15,6 +15,12 @@
         "slug": "derivatives",
         "description": "derivative issuance and trading platforms"
       },
+      
+           {
+        "name": "Options",
+        "slug": "options",
+        "description": "apps and protocols that give the right to buy or sell the underlying asset at a specific price on or before a certain date."
+      },
 
       {
         "name": "Exchanges",
