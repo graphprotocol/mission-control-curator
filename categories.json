@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+   {
+    "name": "Data",
+    "slug": "Data",
+    "description": "projects focused on data economies and data marketplace"
   }
 ]
