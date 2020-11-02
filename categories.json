@@ -5,6 +5,12 @@
     "description": "projects focused on decentralized finance or open finance",
     "subcategories": [
       {
+        "name": "Compliance",
+        "slug": "compliance",
+        "description": "protocols with a focus on DeFi protocol and asset compliance"
+      },
+      
+      {
         "name": "Currencies",
         "slug": "currencies",
         "description": "apps and protocols that issue a cryptocurrency, including stablecoins, ERC20s and non-fungible tokens"
