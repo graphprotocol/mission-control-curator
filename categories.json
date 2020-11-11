@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+  {
+    "name": "Privacy & Encrypting",
+    "slug": "privacy-and-encrypting",
+    "description": "applications and protocols focused on data privacy and encryption"
   }
 ]
